@@ -97,5 +97,7 @@ st.write(loan_approval[prediction])
 st.subheader('Prediction Probability')
 st.write(prediction_proba)
 
+st.markdown([Go back to portfolio](https://ainurafifah00.github.io/))
+
 
 
