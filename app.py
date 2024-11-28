@@ -99,7 +99,7 @@ st.write(prediction_proba)
 
 
 left, middle, right = st.columns(3)
-right.button("""[Go back to portfolio](https://ainurafifah00.github.io/)""", type='primary')
+right.link_button("Go back to portfolio", "https://ainurafifah00.github.io/", type='primary')
 
 
 
